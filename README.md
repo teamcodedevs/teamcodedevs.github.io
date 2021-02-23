@@ -22,7 +22,7 @@
 ## Overview
 <h1 align="center">
   <br>
-  <img src=https://raw.githubusercontent.com/AdrianoPereira/teamcodedevs.github.io/main/assets/screen-prototype.png" alt="Prototype" width="260">
+  <img src="https://raw.githubusercontent.com/AdrianoPereira/teamcodedevs.github.io/main/assets/screen-prototype.png" alt="Prototype" width="260">
 </h1>
 
 ## Contributing
